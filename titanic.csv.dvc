@@ -1,5 +1,5 @@
 outs:
-- md5: d1a947a4f76eb56dd1fa4f934952803a
-  size: 74137
+- md5: 2cfe12719f26cfb25264f635a140619e
+  size: 86575
   isexec: true
   path: titanic.csv
